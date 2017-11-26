@@ -1,2 +1,2 @@
 # Lista de exercícios sobre Função
-## Exercícios
+## Exercícios 1 ao 7
