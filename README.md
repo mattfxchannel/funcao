@@ -9,4 +9,5 @@
 
 
 ## :paperclip: Download DevC++
-- [DevC++] (https://sourceforge.net/projects/orwelldevcpp/)
+- [DevC++](https://sourceforge.net/projects/orwelldevcpp/)
+- [React PDF](https://react-pdf.org/): versão xx.xxx 
