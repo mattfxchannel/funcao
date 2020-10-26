@@ -1,5 +1,5 @@
 # :pencil: Exercícios de Fixação em C++
-## 7 Exemplos de exercícios de fixação. Os exemplos fazem parte de uma apostila contendo alguns desafios a serem resolvidos com o intuito de aprendizagem da linguagem C++
+<p align="justify"> 7 Exemplos de exercícios de fixação. Os exemplos fazem parte de uma apostila contendo alguns desafios a serem resolvidos com o intuito de aprendizagem da linguagem C++ </p>
 
 ### :star2: A dificuldade de cada código aumenta de forma progressiva.
 
